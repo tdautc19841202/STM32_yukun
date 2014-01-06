@@ -1,0 +1,2 @@
+Dependencies for Project 'STM32_yukun', Target 'STM32F407_Flash': (DO NOT MODIFY !)
+F (.\src\Startup\startup_stm32f4xx.s)(0x4F84ECF4)(--cpu Cortex-M4.fp --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\Inc -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\ST\STM32F4xx --list ".\startup_stm32f4xx.lst" --xref -o ".\out\Flash\startup_stm32f4xx.o" --depend ".\out\Flash\startup_stm32f4xx.d")

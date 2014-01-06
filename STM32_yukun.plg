@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\YUKUN\STM32\STM32_yukun.uvproj
+Project File Date:  12/30/2013
+
+<h2>Output:</h2>
+Rebuild target 'STM32F407_Flash'
+assembling startup_stm32f4xx.s...
+linking...
+.\Flash\STM32_yukun.axf: Warning: L6665W: Neither Lib$$Request$$armlib Lib$$Request$$cpplib defined, not searching ARM libraries.
+.\Flash\STM32_yukun.axf: Error: L6411E: No compatible library exists with a definition of startup symbol __main.
+Target not created
